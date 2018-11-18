@@ -1,2 +1,1 @@
-# languageC_SmallProjects
-The repository have small projects in C, realized during my course in University Projeção
+# Codigos-C é um repositório voltado aos códigos que são criados durante as aulas na faculdade; durante o treinamento de Arduino; durante a prática de funcionalidades avançadas de C como Ponteiros, STRUCTS, etc...
